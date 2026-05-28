@@ -1,6 +1,8 @@
 # Proyecto Final: Calculadora Científica
+
 **Asignatura:** Informática I  
 **Docente:** Joaquín Sánchez
+
 **Alumno:** Alessandro de Jesús Rivero Bracho
 
 Este proyecto consiste en el desarrollo de una calculadora científica interactiva ejecutada en consola mediante Python. Siguiendo las restricciones estrictas de la asignatura, todo el sistema fue diseñado desde cero utilizando lógica algorítmica pura, estructuras de control (`if`, `while`, `for`), listas y diccionarios, **sin depender de librerías externas** como `math`, `matplotlib` o `numpy`.
